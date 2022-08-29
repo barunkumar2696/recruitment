@@ -1,0 +1,74 @@
+#right{
+    
+    display: flex;
+    justify-content: right;
+
+}
+#edit{
+    background-color:greenyellow;
+}
+#delete{
+    background-color: brown;
+    color: white;
+}
+#content{
+    background-color: blanchedalmond;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+#low{
+    margin-top: 80px;
+}
+
+#low2{
+    margin-top: 80px;
+}
+#info1{
+    color: red;
+}
+#info2{
+    color: red;
+}
+#info3{
+    color: red;
+}
+#info4{
+    color: red;
+}
+#profile{
+    width: 120px;
+    height: 120px;
+    border-radius: 80px;
+   
+    position: absolute;
+    top:50px;
+    left: 600px;
+}
+#detai1{
+    margin-left: 20px;
+}
+#detail2{
+    margin-left: 20px;
+}
+#detail3{
+    margin-left: 20px;
+}
+#detail4{
+    margin-left: 20px;
+}
+#detail5{
+    margin-left: 20px;
+}
+#detail6{
+    margin-left: 20px;
+}
+#detail7{
+    margin-left: 20px;
+}
+#detail8{
+    margin-left: 20px;
+}
+#detail9{
+    margin-left: 20px;
+}
